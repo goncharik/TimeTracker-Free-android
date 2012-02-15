@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">TimeTracker</string>
+
+    <string name="actionbar_activity_not_found">Failed to open intent...</string>
+    <string name="rest">Rest</string>
+    <string name="work">Work</string>
+    <string name="show_app">Show timer</string>
+    <string name="clear_timers">Clear Timers</string>
+    <string name="notification_work">Working...</string>
+    <string name="notification_rest">Resting...</string>
+
+    <string name="btn_tracker">Tracker</string>
+    <string name="btn_cal">Calendar</string>
+    <string name="btn_charts">Charts</string>
+    <string name="btn_about">About</string>
+
+    <string name="version">Version: \'<xliff:g id="version">%1$s</xliff:g>\'</string>
+    <string name="about">About \'<xliff:g id="about_topic">%1$s</xliff:g>\'</string>
+    <string name="about_text">"TimeTracker is a very easy to use time tracking tool for your Android devices. It is meant for all of us who need to report times spent on working projects and resting.\n\nUsage: Simply go to Tracker in TimeTracker and tap the "Work" button. TimeTracker starts to continuously update the time spent on your work. If you have to switch to rest, tap "Rest" button. The work's timer is paused and can be reactivated at any time."</string>
+</resources>
